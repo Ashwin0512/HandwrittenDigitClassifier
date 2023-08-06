@@ -1,6 +1,6 @@
 const BACKGROUND_COLOUR = '#000000';
 const LINE_COLOUR = '#FFFFFF';
-const LINE_WIDTH = 15;
+const LINE_WIDTH = 8;
 
 var currentX = 0;
 var currentY = 0;
